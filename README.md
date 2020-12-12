@@ -5,7 +5,9 @@ ___
 
 Preview Pics
 
-![NewsHub](https://images.ctfassets.net/d8xmlp2haryb/7FygXIsXfu29KiqZxQZTEq/9cd7b59c11f61b7f9b058269cdd8e9cb/Hiku.gif?h=250)
+![NewsHub](https://raw.githubusercontent.com/philane-Msibi-Ndlondlo/NewsHub/master/Screenshot_2020-12-04-22-58-26.png)
+![NewsHub](https://raw.githubusercontent.com/philane-Msibi-Ndlondlo/NewsHub/master/Screenshot_2020-12-04-23-03-44.png)
+![NewsHub](https://raw.githubusercontent.com/philane-Msibi-Ndlondlo/NewsHub/master/Screenshot_2020-12-04-23-04-22%20(1).png)
 
 ___
 
